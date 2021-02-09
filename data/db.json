@@ -1,16 +1,28 @@
 {
-    "blogs": [
-        {
-            "title": "My first Blog!",
-            "body": "aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv",
-            "author": "mario",
-            "id": 1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv",
-            "author": "yoshi",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My first Blog!",
+      "body": "aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv aksjdnakfbofuefbnsadkvjbauiogvbasjvbasdfbvjkasfdbv",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "New blog yo yo",
+      "body": "hdfhasdvgsdbvgsdbgsdfbg",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "body": "dfhdfrh",
+      "author": "mario",
+      "id": 4
+    }
+  ]
 }
